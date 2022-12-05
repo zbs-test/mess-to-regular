@@ -1,5 +1,5 @@
 # install beego env for linux 
-```sh
+```shell
 //firstly it is needed to set goproxy and module
 //install beego 
 go get github.com/astaxie/beego
@@ -12,7 +12,7 @@ export PATH=$PATH:/home/[user]/go/bin
 //and then may be ok to run bee
 ```
 # create beego proj
-```sh
+```shell
 bee new [projName]
 cd [projName]
 go mod tidy
