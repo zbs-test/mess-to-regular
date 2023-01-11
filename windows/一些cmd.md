@@ -1,0 +1,12 @@
+- systeminfo
+- ver
+- type <filename>
+- cd><filename>
+- notepad filename
+- path
+- sysdm.cpl
+- regedit
+- services.msc
+- explorer <path>
+- rename <file/dir> <newfile/dir>
+  
