@@ -66,6 +66,8 @@ fn main()
     let bar_one = bar(1);
     let foo_one = foo(1);
     println!("bar(1): {}, foo(1): {}",bar_one,foo(1));
+    
+    // 下一个项目学习什么呢？
 }
 ```
 # 总结
