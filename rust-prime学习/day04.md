@@ -1,7 +1,6 @@
 # 结构体
 //main.rs
 ```rs
-use std::default;
 
 fn main()
 {
@@ -28,6 +27,7 @@ fn main()
     #[derive(Debug)]
     struct Digit(i32);
     let v = vec![0,1,2];
+    //将v(i32数组)元素都变成迭代,映射成为Digit类型，收集成为d数组?
     let d:Vec<Digit> = v.into_iter().map(Digit).collect();//什么意思???看不懂
     println!("d:{:?}",d);
 }
@@ -52,6 +52,7 @@ struct Inches(i32);
 //空结构体/单元类型结构体
 #[derive(Debug)]
 struct EmptyStruct;
+
 ```
 # 总结
 - 结构体
