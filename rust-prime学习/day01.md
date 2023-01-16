@@ -1,6 +1,7 @@
 # 前提条件
 - window11_amd64 
 - 安装rust(官网)
+
 //cmd 
 ```
 cargo new hello_world --bin
