@@ -4,7 +4,8 @@
 - visual studio 就有一个f#教程
 - b站`涛讲F#`
 # 体验
-···fsx
+
+```fsharp
 // day01.fsx
 // this is comment 
 (*still comment*)
@@ -18,4 +19,5 @@ let addTwoNum (a:int) (b:int) :int = a + b
 let result = addTwoNum 1 2 
 printfn "%d " result // if can print
 ```
+
 # 下一节粘贴visual stuio 的f#教程
