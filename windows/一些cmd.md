@@ -9,4 +9,4 @@
 - services.msc
 - explorer <path>
 - rename <file/dir> <newfile/dir>
-  
+- control
