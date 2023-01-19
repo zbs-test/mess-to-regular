@@ -53,9 +53,15 @@ end program complex_test
 program char_test
 implicit none
 character(len=40)::ch
+logical :: bl
+! 注意：所有类型def必须声明在头部implicit none下
+
 ! ch的长度为40
 ch = "hello world"
 print *,ch
+! bool类型
+bl = .true.
+print*, bl
 end program char_test
 ```
 
