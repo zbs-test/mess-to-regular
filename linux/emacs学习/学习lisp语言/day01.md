@@ -6,4 +6,4 @@
 (princ "hello world\n")
 ```
 //cmd
-emacs -Q --script hello_world.el
+`emacs -Q --script hello_world.el`
