@@ -1,3 +1,4 @@
+```fsharp
 // This sample will guide you through elements of the F# language.
 //
 // *******************************************************************************************************
@@ -986,3 +987,4 @@ module Events =
 
     // Next, trigger this event (note that sender argument should be set).
     eventForDelegateType.Trigger(null, EventArgs.Empty)
+```
