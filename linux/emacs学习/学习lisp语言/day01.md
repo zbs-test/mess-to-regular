@@ -7,3 +7,13 @@
 ```
 //cmd
 `emacs -Q --script hello_world.el`
+# 自定义函数
+//hello_world.el
+```el
+(defun println (x)
+  (princ x)
+  (princ "\n")
+)
+(println "hello world")
+```
+# 参考elisp教程
