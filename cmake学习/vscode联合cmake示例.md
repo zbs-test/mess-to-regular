@@ -12,3 +12,6 @@
 - 在`setting`的`build...`看`tool chain` 工具链，一般配置了gcc的环境变量就能自动检测，没有的话就自己配，但是如果很复杂，实在不行转linux吧
 - 新建项目绝对不能有中文名字
 - 看看能不能运行和调试
+# 注意点
+- 我用的是ninja去构建，不是makefile，make在我本机很坑，根本make不起来
+- 有机会学习一下ninja和makefile是什么关系
