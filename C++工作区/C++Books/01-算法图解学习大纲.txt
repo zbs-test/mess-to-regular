@@ -1,0 +1,17 @@
+# algorithm basics
+- O(n) and S(n)
+- select sort and how it works
+- recursive and how to apply to quick sort
+- hash map and application 
+- Graph(with node and edge) and BFS (breth first search) and the application
+- 
+# algorithm notice
+- 怎么实现一个二分查找，试着用语言描述并且代码实现
+- 怎么分析程序的O(n)走了多少步和记忆一些常见数据结构(数组链表)的操作所需的On
+- 怎么实现一个含有递归（两个条件）的快速排序（分而治之思想），怎么了解查找最简单的情况
+- 散列表用到哪些知识点：散列函数和负载因子（装填因子，其实叫什么无所谓）
+- 链表数组是不是和散列表很相似？
+- 广度优先搜索的代码实现
+- 广度优先搜素回答的问题：1.A to B is work? 2.A to B which is shortest,A B is node
+- 回顾已经接触的数据结构：数组，链表（线性表），链表数组，栈，队列（受限的线性表），
+图，树（二叉树，满二叉树，完全二叉树，线索二叉树，有权树）
