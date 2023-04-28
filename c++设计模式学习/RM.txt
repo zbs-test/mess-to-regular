@@ -1,0 +1,14 @@
+# build system makes program work
+- conan + cmake
+- vcpkg + cmake
+- meson + ninja
+- xmake
+- gradle
+- bazel
+# algorithm basics
+- O(n) and S(n)
+- select sort and how it works
+- recursive and how to apply to quick sort
+- hash map 
+- BFS (breth first search)
+- 
